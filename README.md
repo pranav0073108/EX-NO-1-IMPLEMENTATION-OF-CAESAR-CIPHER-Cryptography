@@ -1,5 +1,6 @@
 # EX.NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
-
+## NAME: PRANAV K
+## REGNO: 2305001026
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
 
@@ -16,7 +17,7 @@ STEP-4: Else subtract the key from the plain text.
 STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
-```
+```python
 #include <stdio.h>
 
 int main()
