@@ -17,7 +17,7 @@ STEP-4: Else subtract the key from the plain text.
 STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
-```python
+```
 #include <stdio.h>
 
 int main()
@@ -57,6 +57,7 @@ int main()
 }
 ```
 ## OUTPUT:
+<img width="533" height="200" alt="image" src="https://github.com/user-attachments/assets/e8703d4b-fea6-4ce0-b4d3-13a5b2412476" />
 
 
 ## RESULT :
